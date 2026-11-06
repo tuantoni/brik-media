@@ -1,0 +1,13 @@
+env check - 2026-11-06 (date -u: Fri Nov  6 09:31:40 UTC 2026)
+
+1) curl elevenlabsusercontent.com content.mp3:
+curl: (56) CONNECT tunnel failed, response 403
+000 0
+
+2) curl https://api.elevenlabs.io/v1/models:
+000
+
+3) ls /home/claude:
+brik
+brik-media
+brik-videos
